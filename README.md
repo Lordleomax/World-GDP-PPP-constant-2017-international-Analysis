@@ -1,4 +1,9 @@
 # World-GDP-PPP-constant-2017-international-Analysis
+
+![World GDP](https://github.com/Lordleomax/World-GDP-PPP-constant-2017-international-Analysis/assets/131598329/13f15851-1e86-4162-9fd6-149336cfb543)
+
+
+
 Gross Domestic Product (GDP) and Purchasing Power Parity (PPP) are both economic indicators used to measure the economic performance and wealth of a country. However, they approach this measurement in different ways and serve slightly different purposes.
 
 ## 1. **Gross Domestic Product (GDP):**
@@ -33,7 +38,6 @@ In summary, GDP is a measure of the total economic output of a country, while PP
 ## Dataset
 The datset for this analysis was obtained from [Our World In Data](https://ourworldindata.org/grapher/national-gdp-wb?tab=table&time=earliest..2021&region=Africa)
 
-![World GDP](https://github.com/Lordleomax/World-GDP-PPP-constant-2017-international-Analysis/assets/131598329/13f15851-1e86-4162-9fd6-149336cfb543)
 This dataset provides economic indicators for various countries in the year 2021, including GDP (Gross Domestic Product), GDP per capita, and population. 
 Download and open with [Google Sheets](https://docs.google.com/spreadsheets/d/189gnPIRsdgf_ZjcbIaZjtvkmEkvGMK1-v6XOmjTBj7g/edit#gid=1755523509)
 
