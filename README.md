@@ -35,7 +35,7 @@ The datset for this analysis was obtained from [Our World In Data](https://ourwo
 
 ![World GDP](https://github.com/Lordleomax/World-GDP-PPP-constant-2017-international-Analysis/assets/131598329/13f15851-1e86-4162-9fd6-149336cfb543)
 This dataset provides economic indicators for various countries in the year 2021, including GDP (Gross Domestic Product), GDP per capita, and population. 
-
+Download and open with [Google Sheets](https://docs.google.com/spreadsheets/d/189gnPIRsdgf_ZjcbIaZjtvkmEkvGMK1-v6XOmjTBj7g/edit#gid=1755523509)
 
 ## Insights from Analysis
 
